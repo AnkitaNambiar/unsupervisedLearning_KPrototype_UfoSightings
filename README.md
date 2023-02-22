@@ -5,6 +5,8 @@ Personal Unsupervised Learning Project (Python): extensive data cleaning (used e
 National UFO Reporting Center: "Dedicated to the collection and dissemination of objective UFO data"
 Anonymous sources can file UFO Sightings through an Online Report Form
 
+Data from dataset provided by @timothyrenner, https://github.com/timothyrenner/nuforc_sightings_data
+
 ## Data Limitations: 
 The data source is varied, anonymous, and random. The data collection is not validated and does not have a consistent process.
 Proceed anyways since this project is for fun!
