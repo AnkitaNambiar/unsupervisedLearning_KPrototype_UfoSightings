@@ -37,7 +37,9 @@ Proceed anyways since this project is for fun!
 ## K-Prototype (Unsupervised Algorithm) Use
 For this dataset, I used K-Prototype, which is a clustering technique that combines K-Means and K-Mode. K-Prototype is suitable for mixed data (data with categorical and continuous variables), which is why I chose the algorithm.
 
-## K-Prototype Results
+## K-Prototype Cluster Results
+<img width="503" alt="Screenshot 2023-02-22 at 4 53 34 PM" src="https://user-images.githubusercontent.com/105748980/220779339-297d5571-b209-4445-baa5-1b1a5e11600e.png">
+
 After implementing K-Prototype, I found the above 2 clusters. There is something off with these clusters since the first segment has 113058 data points and the second only has 2.
 
 The second segment was clustered separately probably due to the high duration of the points' UFO sightings. These are considered true outliers; they are extreme but represent the dataset.
