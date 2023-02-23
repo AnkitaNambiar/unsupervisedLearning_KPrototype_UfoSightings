@@ -1,5 +1,5 @@
 # unsupervisedLearning_KPrototype_UfoSightings
-Personal Unsupervised Learning Project (Python): extensive data cleaning (used encoders and KNN imputation), in-depth exploratory data analysis, and K-Prototype algorithm used
+Personal Unsupervised Learning Project (Python): extensive data cleaning (used encoders and KNN imputation), in-depth exploratory data analysis, K-Prototype algorithm
 
 ## Data Source 
 National UFO Reporting Center: "Dedicated to the collection and dissemination of objective UFO data"
